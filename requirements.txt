@@ -1,1 +1,12 @@
+ultralytics
+opencv-python
+numpy
 pandas
+pydantic
+python-dotenv
+scikit-learn
+google-genai
+fastapi
+uvicorn
+python-multipart
+scikit-learn
